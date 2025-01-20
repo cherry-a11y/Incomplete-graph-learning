@@ -6,7 +6,7 @@ We aim to keep this list up to date. If you come across any errors or papers tha
 
 The outline corresponds to the taxonomy of Problems in our [survey paper](https://arxiv.org/abs/2308.13821).
 
-- [1. Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#1-class-imbalance)
+- [1. Introduction](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#introduction)
   - [1.1 Node-Level Class Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#11-node-level-class-imbalance)
     - [1.1.1 Imbalanced Node CLassification](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#111-imbalanced-node-classification)
     - [1.1.2 Node-Level Anomaly Detection](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#112-node-level-anomaly-detection)
