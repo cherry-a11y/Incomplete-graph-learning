@@ -30,3 +30,37 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 ### Data imputation learning
 ### Label predication learning
 ### Graph representation learning
+# Attribute-incomplete graph methods
+## Data imputation methods
+### Traditional matrix completion methods
+### Graph learning methods
+## Label predication methods
+# Attribute-missing graph learning methods
+## Data imputation methods
+### Data imputation methods on homogeneous graphs
+### Data imputation methods on heterogeneous graphs
+## Label predication methods
+# Hybrid-absent graph learning methods
+# Incomplete graph learning in practice
+## Datasets
+### Non-graph structured datasets
+### Graph structured datasets
+## Incomplete processing mode
+## Evaluation index
+### Node classification
+### Node clustering
+### Link prediction
+### Feature estimation
+## Applications
+### Knowledge graphs
+### Transportation systems
+### Recommendation systems
+### Summary and discussion
+# Discussion and conclusion
+## Discussion
+### Interpretability and robustness
+### Complex types of graphs
+### Learning with multiple pretext tasks
+### Broader scope applications
+## Conclusion
+
