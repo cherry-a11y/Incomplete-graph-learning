@@ -26,7 +26,8 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Learning to reconstruct missing data from spatiotemporal graphs with sparse observations** (*NeurIPS 2022*) [[paper]](https://arxiv.org/pdf/2205.13479) [[code]](https://github.com/Graph-Machine-Learning-Group/spin)
 * **Handling missing data with graph representation learning** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
 * **Gapformer: Graph transformer with graph pooling for node classification.** (*IJCAI-23*) [[paper]](https://www.ijcai.org/proceedings/2023/0244.pdf)
-* **Handling missing data with graph representation learning** (*Neu*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
+* **Time-aware gradient attack on dynamic network link prediction.** (*IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING*) [[paper]](https://zhichen98.github.io/data/TKDE2023-TGA.pdf)
+* **Learning aligned vertex convolutional networks for graph classification.** (*IEEE TNNLS*) [[paper]](https://arxiv.org/pdf/1902.09936) [[code]](https://github.com/maxiaoba/GRAPE)
 
 # Preliminaries
 ## Taxonomy of graphs
