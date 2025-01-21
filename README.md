@@ -22,7 +22,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
   - [3.1 Fairness Learning on Graphs](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#31-fairness-learning-on-graphs)
 
 # Introduction
-* **Dual graph networks with synthetic oversampling for imbalanced rumor detection on social media** (*WWW'24*) [[paper]](https://doi.org/10.1145/3589335.3651494.pdf)
+* **Dual graph networks with synthetic oversampling for imbalanced rumor detection on social media** (*WWW'24*) [[paper]](https://doi.org/10.1145/3589335.3651494)
   * Methods: [D.I.] ■, [M.R.] □
 # Preliminaries
 ## Taxonomy of graphs
