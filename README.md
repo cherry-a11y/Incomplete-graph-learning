@@ -8,17 +8,15 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 - [Introduction](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#introduction)
 - [Preliminaries](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#preliminaries)
-  - [Taxonomy of graphsl Structure Imbalance](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#taxonomy-of-graphs)
+  - [Taxonomy of graphs](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#taxonomy-of-graphs)
     - [Taxonomy of the fundamental graphs](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#taxonomy-of-the-fundamental-graphs)
     - [Taxonomy of the incomplete graphs](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#taxonomy-of-the-incomplete-graphs)
   - [Relevant learning techniques](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#relevant-learning-techniques)
     - [Data imputation learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#data-imputation-learning)
     - [Label predication learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#label-predication-learning)
     - [Graph representation learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#graph-representation-learning)
-  - [2.3 Graph-Level Structure Imbalance](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#23-graph-level-structure-imbalance)
-    - [2.3.1 Imbalanced Graph Sizes](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#231-imbalanced-graph-sizes)
-    - [2.3.2 Imbalanced Topology Groups](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#232-imbalanced-topology-groups)
-- [3. Other Related Literature](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#3-other-related-literature)
+  - [Summary and discussion](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#23-graph-level-structure-imbalance)
+- [Attribute-incomplete graph methods](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#3-other-related-literature)
   - [3.1 Fairness Learning on Graphs](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#31-fairness-learning-on-graphs)
 
 # Introduction
@@ -81,7 +79,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **How powerful are graph neural networks?** (*ICLR 2019*) [[paper]](https://arxiv.org/pdf/1810.00826) 
 * **Learning to count isomorphisms with graph neural networks** (*AAAI 2023*) [[paper]](https://arxiv.org/pdf/2302.03266) [[code]](https://github.com/Starlien95/Count-GNN)
 * **Cold brew: Distilling graph node representations with incomplete or missing neighborhoods** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/2111.04840) [[code]](https://github.com/amazon-science/gnn-tail-generalization)
-
+## Summary and discussion
 
 # Attribute-incomplete graph methods
 ## Data imputation methods
@@ -126,6 +124,8 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Self-supervised guided hypergraph feature propagation for semi-supervised classification with missing node features** (*ICASSP*) [[paper]](https://arxiv.org/pdf/2302.08250) 
 * **Multi-view contrastive graph clustering** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2110.11842) [[code]](https://github.com/Panern/MCGC)
 * **Federated graph-based networks with shared embedding** [[paper]](https://arxiv.org/pdf/2210.01803) 
+
+
 
 # Attribute-missing graph learning methods
 ## Data imputation methods
