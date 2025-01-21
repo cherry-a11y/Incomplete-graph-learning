@@ -72,20 +72,15 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 ### Label predication learning
 ### Graph representation learning
 * **A comprehensive survey on deep graph representation learning** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/2304.05055)
-* **Graph representation learning:Foundations, methods, applications and system** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-
-
-
-
+* **Graph representation learning:Foundations, methods, applications and system** (*KDD'21*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3470824) 
+* **A comprehensive survey on graph neural networks** (*IEEE Transactions on Neural Networks and Learning Systems*) [[paper]](https://arxiv.org/pdf/1901.00596) [[code]](https://github.com/pamattei/miwae)
+* **Semi-supervised classification with graph convolutional networks** (*ICLR 2017*) [[paper]](https://arxiv.org/pdf/1609.02907) [[code]]
+* **Inductive representation learning on large graphs** (*NIPS 2017*) [[paper]](https://arxiv.org/pdf/1706.02216) 
+* **Hierarchical graph representation learning with differentiable pooling.** (*NIPS'18*) [[paper]](https://arxiv.org/pdf/1806.08804)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **How powerful are graph neural networks?** (*ICLR 2019*) [[paper]](https://arxiv.org/pdf/1810.00826) 
+* **Learning to count isomorphisms with graph neural networks** (*AAAI 2023*) [[paper]](https://arxiv.org/pdf/2302.03266) [[code]](https://github.com/Starlien95/Count-GNN)
+* **Cold brew: Distilling graph node representations with incomplete or missing neighborhoods** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/2111.04840) [[code]](https://github.com/amazon-science/gnn-tail-generalization)
 
 
 # Attribute-incomplete graph methods
