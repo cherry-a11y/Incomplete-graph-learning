@@ -119,13 +119,13 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Maginet: Mask-aware graph imputation network for incomplete traffic data** [[paper]](https://arxiv.org/pdf/2406.03511) 
 
 ## Label predication methods
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **Graph convolutional networks for graphs containing missing features** (*Future Generation Computer Systems*) [[paper]](https://arxiv.org/pdf/2007.04583) [[code]](https://github.com/marblet/GCNmf)
+* **Incomplete graph learning via partial graph convolutional network** (*IEEE Transactions on Artificial Intelligence*) [[paper]](https://ieeexplore.ieee.org/abstract/document/10495099)
+* **T2-GNN: graph neural networks for graphs with incomplete features and structure via teacher-student distillation** (*AAAI 2023*) [[paper]](https://arxiv.org/pdf/2212.12738) [[code]](https://github.com/jindi-tju/T2-GNN)
+* **On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features** (*LoG 2022*) [[paper]](https://arxiv.org/pdf/2111.12128) [[code]](https://github.com/twitter-research/feature-propagation)
+* **Self-supervised guided hypergraph feature propagation for semi-supervised classification with missing node features** (*ICASSP*) [[paper]](https://arxiv.org/pdf/2302.08250) 
+* **Multi-view contrastive graph clustering** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2110.11842) [[code]](https://github.com/Panern/MCGC)
+* **Federated graph-based networks with shared embedding** [[paper]](https://arxiv.org/pdf/2210.01803) 
 
 # Attribute-missing graph learning methods
 ## Data imputation methods
