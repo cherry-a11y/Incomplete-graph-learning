@@ -158,8 +158,9 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **On the unreasonable effectiveness of feature propagation in learning on graphs with missing node features** (*LoG 2022*) [[paper]](https://arxiv.org/pdf/2111.12128) [[code]](https://github.com/twitter-research/feature-propagation)
 * **Self-supervised guided hypergraph feature propagation for semi-supervised classification with missing node features** (*ICASSP*) [[paper]](https://arxiv.org/pdf/2302.08250) 
 * **Multi-view contrastive graph clustering** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2110.11842) [[code]](https://github.com/Panern/MCGC)
-* **Federated graph-based networks with shared embedding** [[paper]](https://arxiv.org/pdf/2210.01803) 
+* **Federated graph-based networks with shared embedding** [[paper]](https://arxiv.org/pdf/2210.01803)
 
+## Summary and discussion
 
 
 # Attribute-missing graph learning methods
@@ -203,6 +204,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Active:augmentation-free graph contrastive learning for partial multi-view clustering** (*2022*) [[paper]](https://arxiv.org/pdf/2203.00186) [[code]](https://github.com/marblet/GCNmf)
 * **On positional and structural node features for graph neural networks on non-attributed graphs** (*CIKM 2022*) [[paper]](https://arxiv.org/pdf/2107.01495) [[code]](https://github.com/zjzijielu/gnn-positional-structural-node-features)
 
+## Summary and discussion
 
 # Hybrid-absent graph learning methods
 * **Graph convolutional networks for graphs containing missing features** (*Future Generation Computer Systems*) [[paper]](https://arxiv.org/pdf/2007.04583) [[code]](https://github.com/marblet/GCNmf)
@@ -212,6 +214,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Incomplete graph learning via attribute-structure decoupled variational auto-encoder** (*WSDM'24*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635769) [[code]](https://github.com/jiangxinke/ASD-VAE)
 * **Revisiting initializing then refining: An incomplete and missing graph imputation network** (*IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS*) [[paper]](https://arxiv.org/pdf/2302.07524) [[code]](https://github.com/WxTu/RITR)
 
+## Summary and discussion
 
 
 
