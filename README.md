@@ -23,8 +23,8 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 # Introduction
 * **Dual graph networks with synthetic oversampling for imbalanced rumor detection on social media** (*WWW'24*) [[paper]](https://doi.org/10.1145/3589335.3651494)
-
 * **Learning to reconstruct missing data from spatiotemporal graphs with sparse observations** (*NeurIPS 2022*) [[paper]](https://arxiv.org/pdf/2205.13479) [[code]](https://github.com/Graph-Machine-Learning-Group/spin)
+* **Handling missing data with graph representation learning** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
 
 # Preliminaries
 ## Taxonomy of graphs
