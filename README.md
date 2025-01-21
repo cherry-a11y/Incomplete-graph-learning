@@ -15,7 +15,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
     - [Data imputation learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#data-imputation-learning)
     - [Label predication learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#label-predication-learning)
     - [Graph representation learning](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#graph-representation-learning)
-  - [Summary and discussion](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#23-graph-level-structure-imbalance)
+  - [Summary and discussion](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#summary-and-discussion)
 - [Attribute-incomplete graph methods](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#3-other-related-literature)
   - [3.1 Fairness Learning on Graphs](https://github.com/Xtra-Computing/Awesome-Literature-ILoGs#31-fairness-learning-on-graphs)
 
