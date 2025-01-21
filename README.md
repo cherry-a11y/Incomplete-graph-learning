@@ -25,9 +25,23 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Dual graph networks with synthetic oversampling for imbalanced rumor detection on social media** (*WWW'24*) [[paper]](https://doi.org/10.1145/3589335.3651494)
 * **Learning to reconstruct missing data from spatiotemporal graphs with sparse observations** (*NeurIPS 2022*) [[paper]](https://arxiv.org/pdf/2205.13479) [[code]](https://github.com/Graph-Machine-Learning-Group/spin)
 * **Handling missing data with graph representation learning** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
-* **Gapformer: Graph transformer with graph pooling for node classification.** (*IJCAI-23*) [[paper]](https://www.ijcai.org/proceedings/2023/0244.pdf)
-* **Time-aware gradient attack on dynamic network link prediction.** (*IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING*) [[paper]](https://zhichen98.github.io/data/TKDE2023-TGA.pdf)
-* **Learning aligned vertex convolutional networks for graph classification.** (*IEEE TNNLS*) [[paper]](https://arxiv.org/pdf/1902.09936) [[code]](https://github.com/maxiaoba/GRAPE)
+* **Gapformer: Graph transformer with graph pooling for node classification** (*IJCAI-23*) [[paper]](https://www.ijcai.org/proceedings/2023/0244.pdf)
+* **Time-aware gradient attack on dynamic network link prediction** (*IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING*) [[paper]](https://zhichen98.github.io/data/TKDE2023-TGA.pdf)
+* **Learning aligned vertex convolutional networks for graph classification** (*IEEE TNNLS*) [[paper]](https://arxiv.org/pdf/1902.09936) [[code]](https://github.com/maxiaoba/GRAPE)
+* **Distributed large-scale natural graph factorization** (*WWW2013*) [[paper]](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/40839.pdf)
+* **SCAN: a structural clustering algorithm for networks** (*KDD'07*) [[paper]](https://www1.se.cuhk.edu.hk/~hcheng/seg5010/slides/p824-xu.pdf) [[code]](https://github.com/rdmpage/scan-structural-clustering)
+* **Do birds of a feather watch each other?: Homophily and social surveillance in location based social networks** (*CSCW'15*) [[paper]](https://dl.acm.org/doi/10.1145/2675133.2675179) 
+* **A comprehensive survey on deep graph representation learning** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/2304.05055)
+* **Graph learning: A comprehensive survey and future directions** (*2022*) [[paper]](https://arxiv.org/pdf/2212.08966v1)
+* **Learning on attribute-missing graphs** (*IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE*) [[paper]](https://arxiv.org/pdf/2011.01623) [[code]](https://github.com/xuChenSJTU/SAT-master-online)
+* **Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning** (* IEEE Transactions on Neural Networks and Learning Systems*) [[paper]](https://ieeexplore.ieee.org/document/9724614) [[code]](https://github.com/liangchundong/HGCA)
+* **Speedup robust graph structure learning with low-rank information.** (*CIKM'21*) [[paper]](http://xiangliyao.cn/papers/cikm21-hui.pdf) [[code]](https://github.com/xh3204/LRGNN)
+* **A survey on graph structure learning: Progress and opportunities.** (*IJCAI22*) [[paper]](https://arxiv.org/pdf/2103.03036)
+* 
+
+
+
+
 
 # Preliminaries
 ## Taxonomy of graphs
