@@ -183,7 +183,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 # Incomplete graph learning in practice
 ## Datasets
 ### Non-graph structured datasets
-* ** Node attribute completion in knowledge graphs with multi-relational propagation** (*ICASSP 2021*) [[paper]](https://arxiv.org/pdf/2011.05301) [[code]](https://github.com/bayrameda/MrAP)
+* **Node attribute completion in knowledge graphs with multi-relational propagation** (*ICASSP 2021*) [[paper]](https://arxiv.org/pdf/2011.05301) [[code]](https://github.com/bayrameda/MrAP)
 * **Handling missing data with graph representation learning** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
 * **Data imputation with iterative graph reconstruction** (*AAAI 2023*) [[paper]](https://arxiv.org/pdf/2212.02810) [[code]](https://github.com/G-AILab/IGRM)
 * **Missing data imputation with adversarially-trained graph convolutional networks** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/1905.01907v1) [[code]](https://github.com/spindro/GINN)
@@ -259,6 +259,11 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 ### Feature estimation
 ## Applications
 ### Knowledge graphs
+* **Learning numerical attributes in knowledge bases** (*AKBC*) [[paper]](https://openreview.net/pdf?id=BJlh0x9ppQ) 
+* **Node attribute completion in knowledge graphs with multi-relational propagation** (*ICASSP 2021*) [[paper]](https://arxiv.org/pdf/2011.05301) [[code]](https://github.com/xbc0112/NumericalPrediction)
+* **Introducing semantic information for numerical attribute prediction over knowledge graphs** (*ISWC 2022*) [[paper]](https://dl.acm.org/doi/10.1007/978-3-031-19433-7_1) [[code]](https://github.com/xbc0112/NumericalPrediction)
+* **MPKGAC: multimodal product attribute completion in e-commerce** (*WWW'23*) [[paper]](https://dl.acm.org/doi/10.1145/3543873.3584623) [[code]](https://github.com/wk1998/MPKGAC)
+
 ### Transportation systems
 ### Recommendation systems
 ### Summary and discussion
