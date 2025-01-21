@@ -1,4 +1,4 @@
-# Incomplete-graph-learning
+# Awesome Literature on Incomplete-graph-learning
 This repository contains a curated list of papers focused on Incomplete Graph Learning . The papers are categorized based on their methodological contributions across Data-Level methods (Data Interpolation, Adversarial Generation, Pseudo-Labeling) and Algorithm-Level methods (Model and Training Refinement, Loss Function Engineering, Post-hoc Adjustments). Many papers contribute to multiple aspects, as indicated in their listings.
 We aim to keep this list up to date. If you come across any errors or papers that should be included, please feel free to open an issue or submit a pull request.
 
