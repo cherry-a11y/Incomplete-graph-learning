@@ -183,8 +183,59 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 # Incomplete graph learning in practice
 ## Datasets
 ### Non-graph structured datasets
+* ** Node attribute completion in knowledge graphs with multi-relational propagation** (*ICASSP 2021*) [[paper]](https://arxiv.org/pdf/2011.05301) [[code]](https://github.com/bayrameda/MrAP)
+* **Handling missing data with graph representation learning** (*NeurIPS 2020*) [[paper]](https://arxiv.org/pdf/2010.16418) [[code]](https://github.com/maxiaoba/GRAPE)
+* **Data imputation with iterative graph reconstruction** (*AAAI 2023*) [[paper]](https://arxiv.org/pdf/2212.02810) [[code]](https://github.com/G-AILab/IGRM)
+* **Missing data imputation with adversarially-trained graph convolutional networks** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/1905.01907v1) [[code]](https://github.com/spindro/GINN)
+* **Graph convolutional matrix completion**[[paper]](https://arxiv.org/pdf/1706.02263) [[code]](https://github.com/pamattei/miwae)
+* **Inductive matrix completion based on graph neural networks** (*ICLR 2020*) [[paper]](https://arxiv.org/pdf/1904.12058) [[code]](https://github.com/muhanzhang/IGMC)
+* **Geometric matrix completion with recurrent multi-graph neural networks** (*International Conference on Machine Learning*) [[paper]](https://arxiv.org/pdf/1704.06803)
+* **Convolutional geometric matrix completion** [[paper]](https://arxiv.org/pdf/1803.00754)
+* **Multiple imputation of missing categorical and continuous values via bayesian mixture models with local dependence.** (*Journal of the American Statistical Association*) [[paper]](https://arxiv.org/pdf/1410.0438)
+* **Inductive matrix completion using graph autoencoder** (*CIKM'21*) [[paper]](https://arxiv.org/pdf/2108.11124) [[code]](https://github.com/swtheing/IMC-GAE)
+
+
 ### Graph structured datasets
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+
+
 ## Incomplete processing mode
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
+
+
+
+
 ## Evaluation index
 ### Node classification
 ### Node clustering
