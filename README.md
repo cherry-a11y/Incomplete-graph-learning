@@ -46,9 +46,23 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **MPKGAC: multimodal product attribute completion in e-commerce** (*WWW'23*) [[paper]](https://dl.acm.org/doi/10.1145/3543873.3584623) [[code]](https://github.com/wk1998/MPKGAC)
 * **Uncovering the missing pattern: Unified framework towards trajectory imputation and prediction** (*CVPR2023*) [[paper]](https://arxiv.org/pdf/2303.16005)
 * **GIN-SD: source detection in graphs with incomplete nodes via positional encoding and attentive fusion** (*IAAI2024*) [[paper]](https://arxiv.org/pdf/2403.00014)
-* **MPKGAC: multimodal product attribute completion in e-commerce** (*WWW'23*) [[paper]](https://dl.acm.org/doi/10.1145/3543873.3584623) [[code]](https://github.com/wk1998/MPKGAC)
 
 # Preliminaries
+* **Missing data analysis: Making it work in the real world** (*Annual Review of Psychology*) [[paper]](https://pubmed.ncbi.nlm.nih.gov/18652544/) 
+* **Missing value imputation: a review and analysis of the literature (2006–2017)** (*Artificial Intelligence Review*) [[paper]](https://link.springer.com/article/10.1007/s10462-019-09709-4) 
+* **An experimental survey of missing data imputation algorithms** (*IEEE Transactions on Knowledge and Data Engineering*) [[paper]](https://ieeexplore.ieee.org/document/9808164) [[code]](https://github.com/zjuwuyy-DL/An-Experimental-Survey-of-Missing-Data-Imputation-Algorithms)
+* **A novel framework for imputation of missing values in databases** (*IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans*) [[paper]](https://ieeexplore.ieee.org/abstract/document/4292217) 
+* **Comparison of various methods for handling incomplete data in software engineeringdatabases** (*2005 International Symposium on Empirical Software Engineering*) [[paper]](https://ieeexplore.ieee.org/document/1541819)
+* **Missforest - non-parametric missing value imputation for mixed-type data** (*Bioinform*) [[paper]](https://arxiv.org/pdf/1105.0828)
+* **Xgboost: A scalable tree boosting system** (*KDD'16*) [[paper]](https://dl.acm.org/doi/10.1145/3543873.3584623)
+* **Multiple imputation by chained equations (mice): Implementation in stata** (*Journal of Statistical Software,*) [[paper](https://www.ucl.ac.uk/anaesthesia/sites/anaesthesia/files/white-2009.pdf) 
+* **Multiple imputation in principal component analysis** (*Advances in Data Analysis and Classification*) [[paper]](https://link.springer.com/article/10.1007/s11634-011-0086-7) 
+* **Missing data imputation using optimal transport** (*ICML 2020*) [[paper]](https://arxiv.org/pdf/2002.03860) 
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **Handling incomplete heterogeneous data using vaes** (*Pattern Recognit*) [[paper]](https://arxiv.org/pdf/1807.03653) 
+* **Missing data imputation with adversarially-trained graph convolutional networks** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/1905.01907v1) [[code]](https://github.com/spindro/GINN)
+* **GAIN: missing data imputation using generative adversarial nets** (*ICML 2018*) [[paper]](https://arxiv.org/pdf/1806.02920) [[code]](https://github.com/tommyngx/gain_data?tab=readme-ov-file)
+
 ## Taxonomy of graphs
 ### Taxonomy of the fundamental graphs
 ### Taxonomy of the incomplete graphs
