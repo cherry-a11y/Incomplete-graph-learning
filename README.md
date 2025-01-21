@@ -107,12 +107,28 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
 * **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
 * **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
-
-
-
-
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
 
 ## Label predication methods
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+
 # Attribute-missing graph learning methods
 ## Data imputation methods
 ### Data imputation methods on homogeneous graphs
