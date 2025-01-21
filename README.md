@@ -262,6 +262,11 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 ### Transportation systems
 ### Recommendation systems
 ### Summary and discussion
+* **Who should i engage with at what time? a missing event-aware temporal graph neural network** (*IEEE
+Transactions on Neural Networks and Learning Systems*) [[paper]](https://arxiv.org/pdf/2301.08399) [[code]](https://github.com/hit-ices/tnnls-mtgn)
+* **GIN-SD: source detection in graphs with incomplete nodes via positional encoding and attentive fusion** (*IAAI2024*) [[paper]](https://arxiv.org/pdf/2403.00014)
+
+
 # Discussion and conclusion
 ## Discussion
 ### Interpretability and robustness
