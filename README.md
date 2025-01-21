@@ -86,7 +86,32 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 # Attribute-incomplete graph methods
 ## Data imputation methods
 ### Traditional matrix completion methods
+* **Matrix completion with preference ranking for top-n recommendation** (*IJCAI 2018*) [[paper]](https://www.ijcai.org/Proceedings/2018/0498.pdf) 
+* **On sampling and recovery of topology of directed social networks- A low-rank matrix completion based approach** (*LCN 2019*) [[paper]](https://ieeexplore.ieee.org/document/8990707) 
+* **GCMCDTI: graph convolutional autoencoder framework for predicting drug-target interactions based on matrix completion** (*Journal of bioinformatics and computational biology*) [[paper]](https://worldscientific.com/doi/10.1142/S0219720022500238)
+* **Multiple imputation of missing categorical and continuous values via bayesian mixture models with local dependence.** (*Journal of the American Statistical Association*) [[paper]](https://arxiv.org/pdf/1410.0438) 
+* **Exact matrix completion via convex optimization** (*Foundations of Computational Mathematics*) [[paper]](https://arxiv.org/pdf/0805.4471)
+* **Matrix completion and low-rank SVD via fast alternating least squares.** (*Journal of Machine Learning Research 16*) [[paper]](https://arxiv.org/pdf/1410.2596) 
+* **Community detection and matrix completion with social and item similarity graphs** (*IEEE Transactions on Signal Processing*) [[paper]](https://arxiv.org/pdf/1912.04099)
+* **GAIN: Missing data imputation using generative adversarial nets** (* Proceedings of the 35th International Conference on Machine Learning*) [[paper]](https://arxiv.org/pdf/1806.02920) [[code]](https://github.com/dhanajitb/GAIN-Pytorch)
+* **Gamin: Generative adversarial multiple imputation network for highly missing data** (*CVPR*) [[paper]](https://ieeexplore.ieee.org/document/9156609) [[code]](https://github.com/pamattei/miwae)
+* **Mice: Multivariate imputation by chained equations in r** (*Journal of statistical software*) [[paper]](https://jeffgill.org/wp-content/uploads/2021/04/mice_multivariate_imputation_by_chained_equations.pdf) [[code]](https://github.com/amices/mice)
+* **Multiple imputation using chained equations: Issues and guidance for practice** (*Statistics in Medicine*) [[paper]](https://www.xueshufan.com/publication/2134843796) 
+* **Flexible imputation of missing data** (*CRC Press*) 
+* **Mssing data imputation using optimal transport** (*Proceedings of the 37th International Conference on Machine Learning*) [[paper]](https://arxiv.org/pdf/2002.03860) [[code]](https://github.com/BorisMuzellec/MissingDataOT)
+* **MIRACLE: causally-aware imputation via learning missing data mechanisms** (*NeurIPS 2021)*) [[paper]](https://arxiv.org/pdf/2111.03187) [[code]](https://github.com/vanderschaarlab/MIRACLE)
+
 ### Graph learning methods
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+* **MIWAE: deep generative modelling and imputation of incomplete data sets** (*ICML 2019*) [[paper]](https://arxiv.org/pdf/1812.02633) [[code]](https://github.com/pamattei/miwae)
+
+
+
+
+
 ## Label predication methods
 # Attribute-missing graph learning methods
 ## Data imputation methods
