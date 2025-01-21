@@ -48,6 +48,12 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **GIN-SD: source detection in graphs with incomplete nodes via positional encoding and attentive fusion** (*IAAI2024*) [[paper]](https://arxiv.org/pdf/2403.00014)
 
 # Preliminaries
+## Taxonomy of graphs
+### Taxonomy of the fundamental graphs
+### Taxonomy of the incomplete graphs
+## Relevant learning techniques
+### Data imputation learning
+
 * **Missing data analysis: Making it work in the real world** (*Annual Review of Psychology*) [[paper]](https://pubmed.ncbi.nlm.nih.gov/18652544/) 
 * **Missing value imputation: a review and analysis of the literature (2006–2017)** (*Artificial Intelligence Review*) [[paper]](https://link.springer.com/article/10.1007/s10462-019-09709-4) 
 * **An experimental survey of missing data imputation algorithms** (*IEEE Transactions on Knowledge and Data Engineering*) [[paper]](https://ieeexplore.ieee.org/document/9808164) [[code]](https://github.com/zjuwuyy-DL/An-Experimental-Survey-of-Missing-Data-Imputation-Algorithms)
@@ -62,12 +68,7 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 * **Handling incomplete heterogeneous data using vaes** (*Pattern Recognit*) [[paper]](https://arxiv.org/pdf/1807.03653) 
 * **Missing data imputation with adversarially-trained graph convolutional networks** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/1905.01907v1) [[code]](https://github.com/spindro/GINN)
 * **GAIN: missing data imputation using generative adversarial nets** (*ICML 2018*) [[paper]](https://arxiv.org/pdf/1806.02920) [[code]](https://github.com/tommyngx/gain_data?tab=readme-ov-file)
-
-## Taxonomy of graphs
-### Taxonomy of the fundamental graphs
-### Taxonomy of the incomplete graphs
-## Relevant learning techniques
-### Data imputation learning
+  
 ### Label predication learning
 ### Graph representation learning
 # Attribute-incomplete graph methods
