@@ -196,20 +196,18 @@ The outline corresponds to the taxonomy of Problems in our [survey paper](https:
 
 
 ### Graph structured datasets
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-* **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
-
+* **Query-drivenactive surveying for collective classification** (*MLG-2012*) [[paper]](https://people.cs.vt.edu/~bhuang/papers/namata-mlg12.pdf) 
+* **Collective classification in network data** (*AI Magazine*) [[paper]](http://eliassi.org/papers/ai-mag-tr08.pdf) 
+* **Link-based classification** (*ICML 2003*) [[paper]](https://cdn.aaai.org/ICML/2003/ICML03-066.pdf) 
+* **Pitfalls of graph neural network evaluation** (*NeurIPS 2018*) [[paper]](https://arxiv.org/pdf/1811.05868) [[code]](https://github.com/shchur/gnn-benchmark)
+* **Multi-scale attributed node embedding** (*Journal of Complex Networks 2021*) [[paper]](https://arxiv.org/pdf/1909.13021) [[code]](https://github.com/benedekrozemberczki/MUSAE)
+* **Using fuzzy logic to leverage HTML markup for web page representation** (*IEEE Transactions on Fuzzy Systems*) [[paper]](https://arxiv.org/pdf/1606.04429v1) 
+* **Protein function prediction via graph kernels** (*Bioinformatics*) [[paper]](https://dl.acm.org/doi/10.1093/bioinformatics/bti1007) 
+* **Brenda, the enzyme database: updates and major new developments** (*Nucleic Acids Research*) [[paper]](https://pubmed.ncbi.nlm.nih.gov/14681450/) 
+* **Quantum chemistry structures and properties of 134 kilo molecules** (*Scientific Data*) [[paper]](https://www.nature.com/articles/sdata201422.pdf) 
+* **Graph kernels for object category prediction in task-dependent robot grasping** (* Mining and Learning with Graphs*) [[paper]](https://snap.stanford.edu/mlg2013/submissions/mlg2013_submission_11.pdf)
+* **One2multi graph autoencoder for multi-view graph clustering** (*WWW'20*) [[paper]](http://www.shichuan.org/doc/83.pdf) [[code]](https://github.com/googlebaba/WWW2020-O2MAC?tab=readme-ov-file)
+* **Relation structure-aware heterogeneous information network embedding** (*AAAI 2019*) [[paper]](https://arxiv.org/pdf/1905.08027) 
 
 ## Incomplete processing mode
 * **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
