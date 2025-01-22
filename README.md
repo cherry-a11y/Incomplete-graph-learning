@@ -67,7 +67,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 * **A comprehensive survey on deep graph representation learning** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/2304.05055)
 * **Graph learning: A comprehensive survey and future directions** (*2022*) [[paper]](https://arxiv.org/pdf/2212.08966v1)
 * **Learning on attribute-missing graphs** (*IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE*) [[paper]](https://arxiv.org/pdf/2011.01623) [[code]](https://github.com/xuChenSJTU/SAT-master-online)
-* **Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning** (* IEEE Transactions on Neural Networks and Learning Systems*) [[paper]](https://ieeexplore.ieee.org/document/9724614) [[code]](https://github.com/liangchundong/HGCA)
+* **Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning** (*IEEE Transactions on Neural Networks and Learning Systems*) [[paper]](https://ieeexplore.ieee.org/document/9724614) [[code]](https://github.com/liangchundong/HGCA)
 * **Speedup robust graph structure learning with low-rank information** (*CIKM'21*) [[paper]](http://xiangliyao.cn/papers/cikm21-hui.pdf) [[code]](https://github.com/xh3204/LRGNN)
 * **A survey on graph structure learning: Progress and opportunities** (*IJCAI22*) [[paper]](https://arxiv.org/pdf/2103.03036)
 * **Matrix completion with cross-concentrated sampling: Bridging uniform sampling and CUR sampling.** (*IEEE Transactions on Pattern Analysis and Machine Intelligence*) [[paper]](https://arxiv.org/pdf/2208.09723) [[code]](https://github.com/huangl3/CCS-ICURC)
