@@ -4,7 +4,7 @@ This repository contains a curated list of papers focused on Incomplete Graph Le
 
 # Outline
 
-The outline corresponds to the taxonomy of Problems in our [survey paper](https://arxiv.org/abs/2308.13821).
+The outline corresponds to the taxonomy of Problems in our survey paper.
 
 - [Introduction](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#introduction)
 - [Preliminaries](https://github.com/cherry-a11y/Incomplete-graph-learning/blob/main/README.md#preliminaries)
