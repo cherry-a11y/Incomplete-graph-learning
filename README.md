@@ -1,4 +1,6 @@
 # Awesome Literature on Incomplete-graph-learning
+This repository contains a curated list of papers focused on Incomplete Graph Learning .The paper introduces learning methods for attribute-incomplete graphs, attribute-missing graphs, and hybrid-absent graphs, encompassing techniques such as attribute imputation and label prediction. It also reviews the applications of incomplete graphs, including introductions to datasets, strategies for handling incompleteness, evaluation metrics, and practical applications.
+
 
 # Outline
 
