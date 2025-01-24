@@ -198,7 +198,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 * **Models and benchmarks for representation learning of partially observed subgraphs** (*CIKM 2022*) [[paper]](https://arxiv.org/pdf/2209.00508) [[code]](https://github.com/dongkwan-kim/PSI)
 * **Latent heterogeneous graph network for incomplete multi-view learning** (*IEEE Transactions on Multimedia*) [[paper]](https://arxiv.org/pdf/2208.13669) [[code]](https://github.com/yxjdarren/LHGN_TMM_2022)
 * **Csat: Contrastive sampling-aggregating transformer for community detection in attribute-missing networks** (* IEEE Transactions on Computational Social Systems*) [[paper]](https://ieeexplore.ieee.org/document/10210121) 
-* **Completing networks by learning local connection patterns** (*2022*) [[paper]](https://arxiv.org/pdf/2204.11852) [[code]](https://github.com/3riccc/C-GIN)
+* **Completing networks by learning local connection patterns** (*ArXive*)(*2022*) [[paper]](https://arxiv.org/pdf/2204.11852) [[code]](https://github.com/3riccc/C-GIN)
 * **Deep partial multiplex network embedding** (*WWW'22*) [[paper]](https://arxiv.org/pdf/2203.02656) 
 * **Learnable topological features for phylogenetic inference via graph neural networks** (*ICLR 2023*) [[paper]](https://arxiv.org/pdf/2302.08840) [[code]](https://github.com/zcrabbit/vbpi-gnn)
 * **Active:augmentation-free graph contrastive learning for partial multi-view clustering** (*2022*) [[paper]](https://arxiv.org/pdf/2203.00186) [[code]](https://github.com/marblet/GCNmf)
