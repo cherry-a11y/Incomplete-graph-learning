@@ -207,7 +207,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 ## Summary and discussion
 
 # Hybrid-absent graph learning methods
-* **Graph convolutional networks for graphs containing missing features** (*Future Generation Computer Systems*) [[paper]](https://arxiv.org/pdf/2007.04583) [[code]](https://github.com/marblet/GCNmf)
+* **Graph convolutional networks for graphs containing missing features** (*Future Generation Computer Systems*)(*2021*) [[paper]](https://arxiv.org/pdf/2007.04583) [[code]](https://github.com/marblet/GCNmf)
 * **Incomplete graph representation and learning via partial graph neural networks** (*2021*) [[paper]](https://arxiv.org/pdf/2003.10130) 
 * **Wasserstein graph neural networks for graphs with missing attributes** (*2022*) [[paper]](https://arxiv.org/pdf/2102.03450)
 * **Confidence-based feature imputation for graphs with partially known features** (*ICLR 2023*) [[paper]](https://arxiv.org/pdf/2305.16618) [[code]](https://github.com/daehoum1/pcfi)
