@@ -166,8 +166,8 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 # Attribute-missing graph learning methods
 ## Data imputation methods
 ### Data imputation methods on homogeneous graphs
-* **Learning on attribute-missing graphs** (*TPAMI 2020*) [[paper]](https://arxiv.org/pdf/2011.01623) [[code]](https://github.com/xuChenSJTU/SAT-master-online)
-* **Amer: A new attribute-missing network embedding approach** (*IEEE Trans Cybern*) [[paper]](https://ieeexplore.ieee.org/document/9765782) 
+* **Learning on attribute-missing graphs** (*TPAMI*)(*2020*) [[paper]](https://arxiv.org/pdf/2011.01623) [[code]](https://github.com/xuChenSJTU/SAT-master-online)
+* **Amer: A new attribute-missing network embedding approach** (*IEEE Trans Cybern*)(*2022*) [[paper]](https://ieeexplore.ieee.org/document/9765782) 
 * **Initializing then refining: A simple graph attribute imputation network** (*IJCAI 2022*) [[paper]](https://www.ijcai.org/proceedings/2022/0485.pdf) [[code]](https://github.com/WxTu/ITR)
 * **Accurate node feature estimation with structured variational graph autoencoder** (*KDD'22*) [[paper]](https://arxiv.org/pdf/2206.04516) [[code]](https://github.com/snudatalab/SVGA)
 * **Amgcl: Feature imputation of attribute missing graph via self-supervised contrastive learning** (*MM'23*) [[paper]](https://arxiv.org/pdf/2305.03741) [[code]](https://github.com/Panern/MCGC)
