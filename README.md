@@ -195,7 +195,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
   
 ## Label predication methods
 * **Schema-guided event graph completion** (*AKBC*)(*2022*) [[paper]](https://arxiv.org/pdf/2206.02921) [[code]](https://github.com/hwwang55/SchemaEGC?tab=readme-ov-file)
-* **Models and benchmarks for representation learning of partially observed subgraphs** (*CIKM 2022*) [[paper]](https://arxiv.org/pdf/2209.00508) [[code]](https://github.com/dongkwan-kim/PSI)
+* **Models and benchmarks for representation learning of partially observed subgraphs** (*CIKM*)(*2022*) [[paper]](https://arxiv.org/pdf/2209.00508) [[code]](https://github.com/dongkwan-kim/PSI)
 * **Latent heterogeneous graph network for incomplete multi-view learning** (*IEEE Transactions on Multimedia*) [[paper]](https://arxiv.org/pdf/2208.13669) [[code]](https://github.com/yxjdarren/LHGN_TMM_2022)
 * **Csat: Contrastive sampling-aggregating transformer for community detection in attribute-missing networks** (* IEEE Transactions on Computational Social Systems*) [[paper]](https://ieeexplore.ieee.org/document/10210121) 
 * **Completing networks by learning local connection patterns** (*ArXive*)(*2022*) [[paper]](https://arxiv.org/pdf/2204.11852) [[code]](https://github.com/3riccc/C-GIN)
