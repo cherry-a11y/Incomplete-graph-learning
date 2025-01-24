@@ -212,7 +212,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 * **Wasserstein graph neural networks for graphs with missing attributes**(*ArXive*) (*2021*) [[paper]](https://arxiv.org/pdf/2102.03450)
 * **Confidence-based feature imputation for graphs with partially known features** (*ICLR 2023*) [[paper]](https://arxiv.org/pdf/2305.16618) [[code]](https://github.com/daehoum1/pcfi)
 * **Incomplete graph learning via attribute-structure decoupled variational auto-encoder** (*WSDM'24*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635769) [[code]](https://github.com/jiangxinke/ASD-VAE)
-* **Revisiting initializing then refining: An incomplete and missing graph imputation network** (*IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS*) [[paper]](https://arxiv.org/pdf/2302.07524) [[code]](https://github.com/WxTu/RITR)
+* **Revisiting initializing then refining: An incomplete and missing graph imputation network** (*TNNLS*)(*2024) [[paper]](https://arxiv.org/pdf/2302.07524) [[code]](https://github.com/WxTu/RITR)
 
 ## Summary and discussion
 
