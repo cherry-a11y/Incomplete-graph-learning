@@ -130,7 +130,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 * **Gamin: Generative adversarial multiple imputation network for highly missing data** (*CVPR*) [[paper]](https://ieeexplore.ieee.org/document/9156609) [[code]](https://github.com/pamattei/miwae)
 * **Mice: Multivariate imputation by chained equations in r** (*Journal of statistical software*) [[paper]](https://jeffgill.org/wp-content/uploads/2021/04/mice_multivariate_imputation_by_chained_equations.pdf) [[code]](https://github.com/amices/mice)
 * **Multiple imputation using chained equations: Issues and guidance for practice** (*Statistics in Medicine*) [[paper]](https://www.xueshufan.com/publication/2134843796) 
-* **Flexible imputation of missing data** (*CRC Press*) 
+* **Flexible imputation of missing data** (*CRC Press*) [[paper]](file:///C:/Users/lhb37/AppData/Local/Temp/MicrosoftEdgeDownloads/c5820c54-0e72-401d-b57d-0de7695c6a8a/Flexible_Imputation_of_Missing_Data.pdf) 
 * **Mssing data imputation using optimal transport** (*Proceedings of the 37th International Conference on Machine Learning*) [[paper]](https://arxiv.org/pdf/2002.03860) [[code]](https://github.com/BorisMuzellec/MissingDataOT)
 * **MIRACLE: causally-aware imputation via learning missing data mechanisms** (*NeurIPS 2021)*) [[paper]](https://arxiv.org/pdf/2111.03187) [[code]](https://github.com/vanderschaarlab/MIRACLE)
 
