@@ -107,7 +107,7 @@ The outline corresponds to the taxonomy of Problems in our survey paper.
 * **A comprehensive survey on deep graph representation learning** (*Neural Networks*) [[paper]](https://arxiv.org/pdf/2304.05055)
 * **Graph representation learning:Foundations, methods, applications and system** (*KDD'21*) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3470824) 
 * **A comprehensive survey on graph neural networks** (*IEEE Transactions on Neural Networks and Learning Systems*) [[paper]](https://arxiv.org/pdf/1901.00596) [[code]](https://github.com/pamattei/miwae)
-* **Semi-supervised classification with graph convolutional networks** (*ICLR 2017*) [[paper]](https://arxiv.org/pdf/1609.02907) [[code]]
+* **Semi-supervised classification with graph convolutional networks** (*ICLR 2017*) [[paper]](https://arxiv.org/pdf/1609.02907)
 * **Inductive representation learning on large graphs** (*NIPS 2017*) [[paper]](https://arxiv.org/pdf/1706.02216) 
 * **Hierarchical graph representation learning with differentiable pooling.** (*NIPS'18*) [[paper]](https://arxiv.org/pdf/1806.08804)
 * **Graph-based molecular representation learning** (*IJCAI 2023*) [[paper]](https://arxiv.org/pdf/2207.04869) [[code]](https://github.com/pamattei/miwae)
